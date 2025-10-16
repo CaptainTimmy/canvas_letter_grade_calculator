@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { AppData, Subject, Outcome, Proficiency } from './types';
+import { useState, useEffect } from 'react';
+import { AppData, Outcome, Proficiency } from './types';
 import { loadData, saveData, createSubject } from './utils/storage';
 import { SubjectManager } from './components/SubjectManager';
 import { OutcomeInput } from './components/OutcomeInput';
