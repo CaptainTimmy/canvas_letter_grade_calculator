@@ -88,6 +88,10 @@ The project uses:
 - Prettier for code formatting
 - Hot module replacement for fast development
 
+## Live Demo
+
+Visit the live app at: [https://captaintimmy.github.io/canvas_letter_grade_calculator/](https://captaintimmy.github.io/canvas_letter_grade_calculator/)
+
 ## License
 
 This project is for educational use at Avenues The World School.
